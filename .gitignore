@@ -1,0 +1,12 @@
+.venv/
+.venv_paddle/
+.idea/
+__pycache__/
+*.pyc
+
+results/
+
+*.log
+*.tmp
+*.bak
+
